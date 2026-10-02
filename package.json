@@ -11,7 +11,7 @@
   "dependencies": {
     "async": "~3.2.6",
     "atom-select-list": "^0.8.1",
-    "fs-plus": "^3.0.0",
+    "fs-plus": "^3.1.1",
     "loophole": "^1",
     "pegjs": "~0.10.0",
     "scoped-property-store": "^0.17.0",
