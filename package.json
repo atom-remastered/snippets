@@ -3,7 +3,7 @@
   "version": "1.6.0",
   "main": "./lib/snippets",
   "description": "Expand snippets matching the current prefix with `tab`.",
-  "repository": "https://github.com/coltonsr77/snippets",
+  "repository": "https://github.com/atom-remastered/snippets",
   "license": "MIT",
   "engines": {
     "atom": "*"
